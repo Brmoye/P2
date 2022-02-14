@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1643730556 source:e:\una\cs355\p2\playertest\testplayer.cpp
+	<iostream>
+	"ull.h"
+	"Item.h"
+	"Area.h"
+	"areaNode.h"
+	"Player.h"
+
+1643732396 e:\una\cs355\p2\playertest\ull.h
+	<iostream>
+	<cassert>
+
+1644336788 e:\una\cs355\p2\playertest\item.h
+	<iostream>
+	<string>
+
+1644350668 e:\una\cs355\p2\playertest\area.h
+	<string>
+	<iostream>
+	"ull.h"
+	"Item.h"
+
+1643730582 e:\una\cs355\p2\playertest\areanode.h
+
+1644511120 e:\una\cs355\p2\playertest\player.h
+	"ull.h"
+	"Item.h"
+

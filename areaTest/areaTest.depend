@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1643730502 source:e:\una\cs355\p2\areatest\testarea.cpp
+	<iostream>
+	"ull.h"
+	"Item.h"
+	"Area.h"
+
+1643732396 e:\una\cs355\p2\areatest\ull.h
+	<iostream>
+	<cassert>
+
+1644336788 e:\una\cs355\p2\areatest\item.h
+	<iostream>
+	<string>
+
+1644347226 e:\una\cs355\p2\areatest\area.h
+	<string>
+	<iostream>
+	"ull.h"
+	"Item.h"
+

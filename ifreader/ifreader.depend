@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1643730380 source:e:\una\cs355\p2\ifreader\main.cpp
+	"Game.h"
+
+1643730462 e:\una\cs355\p2\ifreader\game.h
+	"MapV2.h"
+	"Player.h"
+	"ull.h"
+	"Item.h"
+
+1644511520 e:\una\cs355\p2\ifreader\mapv2.h
+	"Map.h"
+
+1644509040 e:\una\cs355\p2\ifreader\map.h
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	"IFDParser.h"
+	"LinkData.h"
+	"Area.h"
+
+1643730430 e:\una\cs355\p2\ifreader\ifdparser.h
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdlib.h>
+
+1643730416 e:\una\cs355\p2\ifreader\linkdata.h
+	<iostream>
+
+1644350668 e:\una\cs355\p2\ifreader\area.h
+	<string>
+	<iostream>
+	"ull.h"
+	"Item.h"
+
+1643732396 e:\una\cs355\p2\ifreader\ull.h
+	<iostream>
+	<cassert>
+
+1644511212 e:\una\cs355\p2\ifreader\player.h
+	"ull.h"
+	"Item.h"
+
+1644336788 e:\una\cs355\p2\ifreader\item.h
+	<iostream>
+	<string>
+
+1644337132 source:e:\una\cs355\p2\testitem.cpp
+	<iostream>
+	"ifreader/Item.h"
+
+1643730380 source:i:\una\cs355\p2\ifreader\main.cpp
+	"Game.h"
+
+1643730462 i:\una\cs355\p2\ifreader\game.h
+	"MapV2.h"
+	"Player.h"
+	"ull.h"
+	"Item.h"
+
+1644541204 i:\una\cs355\p2\ifreader\mapv2.h
+	"Map.h"
+
+1644509040 i:\una\cs355\p2\ifreader\map.h
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	"IFDParser.h"
+	"LinkData.h"
+	"Area.h"
+
+1643730430 i:\una\cs355\p2\ifreader\ifdparser.h
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdlib.h>
+
+1643730416 i:\una\cs355\p2\ifreader\linkdata.h
+	<iostream>
+
+1644350668 i:\una\cs355\p2\ifreader\area.h
+	<string>
+	<iostream>
+	"ull.h"
+	"Item.h"
+
+1643732396 i:\una\cs355\p2\ifreader\ull.h
+	<iostream>
+	<cassert>
+
+1644336788 i:\una\cs355\p2\ifreader\item.h
+	<iostream>
+	<string>
+
+1644511212 i:\una\cs355\p2\ifreader\player.h
+	"ull.h"
+	"Item.h"
+
